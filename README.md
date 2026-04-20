@@ -1,5 +1,5 @@
 # Objective
-To analyze long-term trends in agricultural production data to identify patterns and regional differences over time.
+The objective of this project is to analyze long-term trends in agricultural production data to identify patterns and regional differences over time.
 
 # Dataset
 -European grape yield data (2000–2023)
